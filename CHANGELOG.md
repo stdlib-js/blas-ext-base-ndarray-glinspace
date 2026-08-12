@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-09)
+## Unreleased (2026-08-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cb9723a`](https://github.com/stdlib-js/stdlib/commit/cb9723af638d9244ea0b50bcb07c550f13bdedce) - **docs:** update examples [(#14169)](https://github.com/stdlib-js/stdlib/pull/14169) _(by Philipp Burckhardt)_
 -   [`fcca435`](https://github.com/stdlib-js/stdlib/commit/fcca4355ad6d547eb04701c573cd151fe74adf88) - **docs:** update `blas/ext/base/ndarray` scalar helper imports [(#12880)](https://github.com/stdlib-js/stdlib/pull/12880) _(by Karan Anand)_
 -   [`4982b32`](https://github.com/stdlib-js/stdlib/commit/4982b3215389e2264fc35e40a548053c25eba4f4) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`2367b73`](https://github.com/stdlib-js/stdlib/commit/2367b73618b8d8262820deca4c143b54e9d39f18) - **docs:** improve doctests for ndarray instances in `blas/ext/ndarray/glinspace` [(#11550)](https://github.com/stdlib-js/stdlib/pull/11550) _(by Uday Kakade)_
@@ -27,10 +28,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 -   Uday Kakade
 
 </section>
